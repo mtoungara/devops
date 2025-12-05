@@ -10,7 +10,7 @@ $ apt install java
 
 # Sauvegarde du .bashrc
 
-# Installation de Maven 3.9.11
+# Installation de Maven
 
 $ apt install maven
 
